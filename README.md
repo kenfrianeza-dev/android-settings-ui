@@ -2,6 +2,10 @@
 
 This project is a recreation of the Android phone settings UI version XOS V13.0.0 using React, Tailwind CSS, TypeScript, and Vite. The goal of this project is to showcase the flexibility and ease of development with these modern web development tools while replicating the familiar and intuitive user interface of Android settings.
 
+## Demo
+
+Live preview `https://ken-frianeza-android-settings-ui.vercel.app/`
+
 ## Features
 
 - **Responsive Design**: The UI is designed to be responsive and adapt to various screen sizes, ensuring a consistent user experience across different devices.
