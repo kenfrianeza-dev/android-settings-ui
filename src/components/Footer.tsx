@@ -10,7 +10,7 @@ const Footer: FC<Props> = ({ isDarkMode }) => {
 			<p>Coded with {isDarkMode ? "🤍" : "❤️"} by:</p>
 			<a
 				className="underline font-semibold"
-				href="https://www.facebook.com/kenfrianeza2555"
+				href="https://github.com/kenfrianeza-dev/android-settings-ui"
 				target="_blank"
 				rel="noopener noreferrer"
 			>
