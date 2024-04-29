@@ -9,7 +9,7 @@ Live preview: `https://ken-frianeza-android-settings-ui.vercel.app/`
 ## Features
 
 - **Responsive Design**: The UI is designed to be responsive and adapt to various screen sizes, ensuring a consistent user experience across different devices.
-- **Light and Dark Mode**: The UI supports both light and dark mode with a toggle switch, providing users with the option to choose their preferred color scheme.
+- **Theme Persistence**: The selected theme (light or dark mode) is persisted using local storage, ensuring that the user's preference is retained across sessions.
 - **Modular Components**: Components are modularized for better code organization and reusability, following best practices of component-based architecture.
 - **Customizable Themes**: Tailwind CSS allows for easy customization of styles and themes, enabling developers to tailor the UI to fit their brand or design requirements.
 - **Type Safety**: TypeScript provides type safety and helps catch potential errors during development, ensuring a more robust and maintainable codebase.
