@@ -22,20 +22,20 @@ This project faithfully recreates the Android phone settings UI version XOS V13.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/kenfrianeza-dev/android-phone-settings-ui.git
-   ```
+```bash
+git clone https://github.com/kenfrianeza-dev/android-phone-settings-ui.git
+```
 
 2. Navigate to the project directory:
 
 ```bash
- cd android-phone-settings-ui
+cd android-phone-settings-ui
 ```
 
 3. Install dependencies:
 
 ```bash
- npm install
+npm install
 ```
 
 ## Installation
@@ -43,10 +43,10 @@ This project faithfully recreates the Android phone settings UI version XOS V13.
 1. Start the development server:
 
 ```bash
- npm run dev
+npm run dev
 ```
 
-2. Open your browser and navigate to `http://localhost:3000` to view the app.
+2. Open your browser and navigate to `http://localhost:5173` to view the app.
 
 3. Explore the settings UI and interact with different components to experience the functionality.
 
