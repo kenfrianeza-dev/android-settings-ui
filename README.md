@@ -12,9 +12,10 @@ This project is a recreation of the Android phone settings UI version XOS V13.0.
 
 ## Showcase
 
-![Settings UI Showcase](/public/dark-mode.png)
-
 This project faithfully recreates the Android phone settings UI version XOS V13.0.0, including various settings categories such as Wireless & Networks, Device, Personalization & System etc.
+
+![Dark Mode](/public/dark-mode.png)
+![Light Mode](/public/light-mode.png)
 
 ## Installation
 
