@@ -4,7 +4,7 @@ This project is a recreation of the Android phone settings UI version XOS V13.0.
 
 ## Demo
 
-Live preview `https://ken-frianeza-android-settings-ui.vercel.app/`
+Live preview: `https://ken-frianeza-android-settings-ui.vercel.app/`
 
 ## Features
 
